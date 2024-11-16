@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+    "$basetexture"              "models/masseffect/threshermaw/CBT_MAW_NKDa_Diff_Stack"
+	"$bumpmap"					"models/masseffect/threshermaw/CBT_MAW_NKDa_Norm_Stack"
+	"$phongexponenttexture" 	"vj_base/exponent"
+
+	"$phong"                    "1"
+	"$phongboost"               "0.4"
+	"$phongexponent"            "75"
+	"$phongfresnelranges"       "[0.15 0.545 0.115]"
+	"$phongdisablehalflambert"  "1"
+	"$phongwarptexture" 		"models/masseffect/phongwarp_steel"
+}

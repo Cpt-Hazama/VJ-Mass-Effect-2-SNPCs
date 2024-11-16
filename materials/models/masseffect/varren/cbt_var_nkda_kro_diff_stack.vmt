@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+    "$basetexture"              "models/masseffect/varren/CBT_VAR_NKDa_Kro_Diff_Stack"
+	"$bumpmap"					"models/masseffect/varren/CBT_VAR_NKDa_Kro_Norm_Stack"
+	"$phongexponenttexture" 	"vj_base/exponent"
+
+	"$phong"                    "1"
+	"$phongboost"               "0.35"
+	"$phongexponent"            "75"
+	"$phongfresnelranges"       "[0.15 0.545 0.115]"
+	"$phongdisablehalflambert"  "1"
+	"$phongwarptexture" 		"models/masseffect/phongwarp_steel"
+
+	"$envmapfresnel"            "1"
+	"$envmap"                   "env_cubemap"
+	"$envmaptint" 				"[0.1 0.1 0.1]"
+	"$envmapmask"				"models/masseffect/varren/CBT_VAR_NKDa_Kro_Spwr_Stack"
+}

@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+    "$basetexture"              "models/masseffect/varren/CBT_VAR_EYE_Diff_Stack"
+	"$bumpmap"					"models/masseffect/varren/CBT_VAR_EYE_Norm_Stack"
+	"$phongexponenttexture" 	"vj_base/exponent"
+
+	"$phong"                    "1"
+	"$phongboost"               "1"
+	"$phongexponent"            "45"
+	"$phongfresnelranges"       "[0.15 0.545 0.115]"
+	"$phongdisablehalflambert"  "1"
+	"$phongwarptexture" 		"models/masseffect/phongwarp_steel"
+}

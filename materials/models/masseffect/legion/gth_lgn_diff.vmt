@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+    "$basetexture"              "models/masseffect/legion/GTH_LGN_Diff"
+	"$bumpmap"					"models/masseffect/legion/GTH_LGN_Norm"
+	"$phongexponenttexture" 	"vj_base/exponent"
+
+	"$phong"                    "1"
+	"$phongboost"               "1"
+	"$phongexponent"            "15"
+	"$phongfresnelranges"       "[0.15 0.545 0.115]"
+	"$phongdisablehalflambert"  "1"
+	"$phongalbedotint"          "1"
+	"$phongalbedoboost"         "30"
+	"$phongwarptexture" 		"models/masseffect/phongwarp_steel"
+
+	"$envmapfresnel"            "1"
+	"$envmap"                   "env_cubemap"
+	"$envmaptint" 				"[0.1 0.1 0.1]"
+	"$normalmapalphaenvmapmask" "1"
+}
